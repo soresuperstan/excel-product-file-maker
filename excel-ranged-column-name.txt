@@ -1,0 +1,28 @@
+# Excel Column Names for New Product Creation
+A - SKU
+B - Item Title
+C - UPC
+D - Small Description
+E - Item Length
+F - Item Width
+G - Item Height
+H - Item Depth
+I - Item Weight
+J - Material Breakdown
+K - Color
+L - Collection
+M - Series
+N - Box Length
+O - Box Height
+P - Box Width
+Q - Box Weight
+R - Variation
+S - Size Name
+T - Color Name
+U - Style Name
+V - Country of Origin
+W - Cost
+X - List Price
+Y - Case Pack
+Z - Image URL
+AA - Notes
